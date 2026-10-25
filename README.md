@@ -20,9 +20,22 @@ Your agent will:
 
 Keep your finished brief somewhere private. It's about you, so it never goes back into this repository.
 
+## Before you start (saves you a day)
+
+I learned these the hard way:
+
+- **Check which accounts your agent is really connected to.** My agents' "personal email" connections were often quietly signed in to my school account. Pick one email address for everything the brief does, and make sure every agent can send from it.
+- **Say "always allow" for your own address.** Some agents ask permission every time they email you. Allow them to always email your own address, and leave everything else on ask.
+- **Put logins where your agent can see them.** If your password manager connects to your agent, it may only see one shared vault. Put the logins it needs there.
+- **Give it your documents.** Agents found more from my certificates, tax receipts and statements in Drive than from any portal login. Keep them in one folder and give your agent access to it.
+- **Name your meeting notes app.** Most of my action items lived there, and once agents knew that, they found what I'd promised people.
+- **Expect "partly" on day one.** Lots of duties only prove themselves once a routine has run or a real meeting happens. Run the setup check again the next morning.
+- **Give targets that fit your real week.** My first deep-work target didn't fit around a job and classes, and the agents rightly pushed back.
+- **If you use several agents, never assign lanes.** Each one owns everything. If they start dividing up the work in the team room, paste the reset prompt below.
+
 ## After setup
 
-**Check what actually works.** Paste the prompt in [setup-check.md](setup-check.md). The agent tests every line of your brief and gives you one table: working, partly, not yet, or can't on this platform. Run it again whenever a new model comes out.
+**Check what actually works.** Paste the prompt in [setup-check.md](setup-check.md). The agent tests every line of your brief and gives you one table: working, ready (waiting only on a real event), partly, not yet, or can't on this platform. Run it again the morning after setup, and whenever a new model comes out.
 
 **When it drifts, reset it.** Paste this:
 

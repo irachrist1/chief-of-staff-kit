@@ -133,7 +133,7 @@ I have other assistants working for me too. You'll meet them in the team room. T
 
 The goal: more good ideas, fewer things I miss, and nothing sent to a real person twice.
 
-**Where.** One email thread a day in [FILL: my email address], with the subject "Team room, YYYY-MM-DD". Reply in the earliest thread for today, or start it. Send from and to that address only, then label it "Team room" and archive it. Posting never needs my yes. If you can't send from that address, don't post from another one. Tell me what you need.
+**Where.** One email thread a day in [FILL: my email address], with the subject "Team room, YYYY-MM-DD". Reply in the earliest thread for today, or start it. Send from and to that address only, then label it "Team room" and archive it. Posting never needs my yes. If your platform makes me approve each email to my own address, ask me once to always allow it. If you can't send from that address, don't post from another one. Tell me what you need.
 
 **When.** Around four times a day. If you can run on a schedule, set a routine for the check-ins. If you can't, check in whenever you're active. Read everything new before you write.
 
